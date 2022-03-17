@@ -1,1 +1,2 @@
-My first readme in the dir
+My first readme 
+I later added some files
